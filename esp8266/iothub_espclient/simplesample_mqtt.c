@@ -33,8 +33,8 @@ and removing calls to _DoWork will yield the same results. */
 {"Name" : "TurnFanOn", "Parameters" : {}}
 {"Name" : "SetAirResistance", "Parameters" : { "Position" : 5 }}
 */
-//static const char* connectionString = "HostName=MakerNS.azure-devices.net;DeviceId=esp8266;SharedAccessKey=EAnkQ+c5D38ZheUuBUFXZrwMD1Wkpt3NT5z7sCK7EgE=";
-static const char* connectionString = "HostName=dudule.azure-devices.net;DeviceId=esp8266;SharedAccessKey=LO2dugO8AVsMJ/XmaNaBPz88u+fxcTXE0WiT4EmcYPE=";
+
+static const char* connectionString = "<<Connection String>>";
 
 // Define the Model
 BEGIN_NAMESPACE(WeatherStation);
