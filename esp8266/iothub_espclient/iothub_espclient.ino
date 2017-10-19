@@ -22,8 +22,8 @@
 
 #include "simplesample_mqtt.h"
 
-static char ssid[] = "TP-LINK";     // your network SSID (name)
-static char pass[] = "Samba2015";    // your network password (use for WPA, or use as key for WEP)
+static char ssid[] = "<<SSID>>";     // your network SSID (name)
+static char pass[] = "<<Password>>";    // your network password (use for WPA, or use as key for WEP)
 
 
 void setup() {
